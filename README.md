@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eric Wang!</h1>
-<h3 align="center">I am a passionate University of Toronto student specializing in software development and cloud computing.</h3>
 
-- 💬 Ask me about **Java,Python**
+<p align="center">
+  <strong>UofT Computer Science | Machine Learning Specialist | Model Optimization Enthusiast</strong>
+</p>
 
-- 📫 How to reach me **ericwang7717@gmail.com**
-
-<p align="left">
+<p align="center">
+  <a href="https://linkedin.com/in/-ericwang-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ericwang7717@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://ek-flowity.site"><img src="https://img.shields.io/badge/Portfolio-25292e?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
